@@ -1,0 +1,4 @@
+environs~=11.0.0
+aiogram==3.13.1
+sqlalchemy~=2.0.36
+requests~=2.32.3
